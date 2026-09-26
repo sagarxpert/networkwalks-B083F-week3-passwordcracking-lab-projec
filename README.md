@@ -99,7 +99,7 @@ The Week 3 project material explains that John the Ripper is used by security pr
 # 📂 Repository Structure
 
 ```text
-networkwalks-B082-week3-password-security
+networkwalks-B083F-week3-password-security
 │
 ├── README.md
 ├── Evidence/
