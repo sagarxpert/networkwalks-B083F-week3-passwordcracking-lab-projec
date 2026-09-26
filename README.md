@@ -676,7 +676,7 @@ Overall, the exercise strengthened my understanding of password security, hash a
 
 ## 🚀 NetworkWalks Cybersecurity Internship
 
-### Batch B082 • Week 03
+### Batch B083F • Week 03
 
 **Password Security • Hash Analysis • John the Ripper • NW Tools**
 
